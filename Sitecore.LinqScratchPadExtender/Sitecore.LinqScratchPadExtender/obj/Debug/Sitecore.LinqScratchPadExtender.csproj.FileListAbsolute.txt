@@ -1,0 +1,9 @@
+C:\Users\mnamooya\Documents\Visual Studio 2013\Projects\Sitecore.LinqScratchPadExtender\Sitecore.LinqScratchPadExtender\bin\Sitecore.LinqScratchPadExtender.dll
+C:\Users\mnamooya\Documents\Visual Studio 2013\Projects\Sitecore.LinqScratchPadExtender\Sitecore.LinqScratchPadExtender\bin\Sitecore.LinqScratchPadExtender.pdb
+C:\Users\mnamooya\Documents\Visual Studio 2013\Projects\Sitecore.LinqScratchPadExtender\Sitecore.LinqScratchPadExtender\bin\Sitecore.Buckets.Client.dll
+C:\Users\mnamooya\Documents\Visual Studio 2013\Projects\Sitecore.LinqScratchPadExtender\Sitecore.LinqScratchPadExtender\bin\Sitecore.Client.dll
+C:\Users\mnamooya\Documents\Visual Studio 2013\Projects\Sitecore.LinqScratchPadExtender\Sitecore.LinqScratchPadExtender\bin\Sitecore.Kernel.dll
+C:\Users\mnamooya\Documents\Visual Studio 2013\Projects\Sitecore.LinqScratchPadExtender\Sitecore.LinqScratchPadExtender\bin\Newtonsoft.Json.dll
+C:\Users\mnamooya\Documents\Visual Studio 2013\Projects\Sitecore.LinqScratchPadExtender\Sitecore.LinqScratchPadExtender\obj\Debug\Sitecore.LinqScratchPadExtender.dll
+C:\Users\mnamooya\Documents\Visual Studio 2013\Projects\Sitecore.LinqScratchPadExtender\Sitecore.LinqScratchPadExtender\obj\Debug\Sitecore.LinqScratchPadExtender.pdb
+C:\Users\mnamooya\Documents\Visual Studio 2013\Projects\Sitecore.LinqScratchPadExtender\Sitecore.LinqScratchPadExtender\obj\Debug\Sitecore.LinqScratchPadExtender.csprojResolveAssemblyReference.cache
